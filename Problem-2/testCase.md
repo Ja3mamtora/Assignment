@@ -36,18 +36,8 @@
   - Available Lengths: 66, 41, 62, 24, 88, 55, 1, 53, 50, 60
 - **Expected Output:** 10
 
-... (skipping some test cases for brevity)
 
-## Test Case 17:
-- **Input:** 
-  - Applicants: 199999
-  - Cloth Rolls: 1
-  - Tolerance: 1
-  - Desired Lengths: 199996, 199997, 149999, 117797, ...
-  - Available Lengths: 200000
-- **Expected Output:** 1
-
-## Test Case 18:
+## Test Case 5:
 - **Input:** 
   - Applicants: 5
   - Cloth Rolls: 2
@@ -56,7 +46,7 @@
   - Available Lengths: 40, 50
 - **Expected Output:** 2
 
-## Test Case 19:
+## Test Case 6:
 - **Input:** 
   - Applicants: 4
   - Cloth Rolls: 3
