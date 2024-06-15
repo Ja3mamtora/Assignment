@@ -13,6 +13,7 @@ Write a function `distributeClothLength(applicants, clothRolls)` to determine ho
   - Desired cloth lengths: 60, 45, 80, 60
 - **Cloth Rolls:** 3 available cloth rolls
   - Lengths: 30, 60, 75
+- **Tolerance:** 5
 
 ### Output:
 - **Result:** 2 applicants can get cloth rolls.
